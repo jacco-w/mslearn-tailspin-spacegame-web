@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/learn-jacco/Space%20Game%20-%20web/_apis/build/status/jacco-w.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/learn-jacco/Space%20Game%20-%20web/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
